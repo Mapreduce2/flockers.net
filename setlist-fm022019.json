@@ -1,0 +1,1847 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 1,
+   "total" : 167,
+   "setlist" : [ {
+      "id" : "73955a8d",
+      "versionId" : "2317c8e7",
+      "eventDate" : "16-02-2019",
+      "lastUpdated" : "2019-02-19T16:48:27.000+0000",
+      "artist" : {
+         "mbid" : "ec8e3cea-69f0-4ff3-b42c-74937d336334",
+         "tmid" : 1556409,
+         "name" : "Pigeons Playing Ping Pong",
+         "sortName" : "Pigeons Playing Ping Pong",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pigeons-playing-ping-pong-3dac12b.html"
+      },
+      "venue" : {
+         "id" : "13d63971",
+         "name" : "The Intersection",
+         "city" : {
+            "id" : "4994359",
+            "name" : "Grand Rapids",
+            "state" : "Michigan",
+            "stateCode" : "MI",
+            "coords" : {
+               "lat" : 46.7657749,
+               "long" : -89.2756983
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-intersection-grand-rapids-mi-usa-13d63971.html"
+      },
+      "tour" : {
+         "name" : "No Tour Assigned"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "1",
+            "song" : [ {
+               "name" : "Fox and Toad"
+            }, {
+               "name" : "Offshoot"
+            }, {
+               "name" : "Burning Up My Time"
+            }, {
+               "name" : "F.U."
+            }, {
+               "name" : "Where Are We Going"
+            }, {
+               "name" : "Around the World"
+            }, {
+               "name" : "Whoopie"
+            }, {
+               "name" : "Doc"
+            } ]
+         }, {
+            "name" : "2",
+            "song" : [ {
+               "name" : "Schwanthem"
+            }, {
+               "name" : "Fade Fast"
+            }, {
+               "name" : "Melting Lights"
+            }, {
+               "name" : "Drunk People"
+            }, {
+               "name" : "Somethin for Ya"
+            }, {
+               "name" : "Fortress"
+            }, {
+               "name" : "Ocean Flows"
+            } ]
+         }, {
+            "encore" : 1,
+            "name" : "2",
+            "song" : [ {
+               "name" : "Cliffs >"
+            }, {
+               "name" : "Say Cheese >"
+            }, {
+               "name" : "Cliffs"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pigeons-playing-ping-pong/2019/the-intersection-grand-rapids-mi-73955a8d.html"
+   }, {
+      "id" : "73955a79",
+      "versionId" : "1b179100",
+      "eventDate" : "15-02-2019",
+      "lastUpdated" : "2019-02-16T01:45:03.000+0000",
+      "artist" : {
+         "mbid" : "ec8e3cea-69f0-4ff3-b42c-74937d336334",
+         "tmid" : 1556409,
+         "name" : "Pigeons Playing Ping Pong",
+         "sortName" : "Pigeons Playing Ping Pong",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pigeons-playing-ping-pong-3dac12b.html"
+      },
+      "venue" : {
+         "id" : "53d4875d",
+         "name" : "Concord Music Hall",
+         "city" : {
+            "id" : "4887398",
+            "name" : "Chicago",
+            "state" : "Illinois",
+            "stateCode" : "IL",
+            "coords" : {
+               "lat" : 41.850033,
+               "long" : -87.6500523
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/concord-music-hall-chicago-il-usa-53d4875d.html"
+      },
+      "tour" : {
+         "name" : "No Tour Assigned"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pigeons-playing-ping-pong/2019/concord-music-hall-chicago-il-73955a79.html"
+   }, {
+      "id" : "439563db",
+      "versionId" : "4b179bbe",
+      "eventDate" : "14-02-2019",
+      "lastUpdated" : "2019-02-15T19:10:38.000+0000",
+      "artist" : {
+         "mbid" : "ec8e3cea-69f0-4ff3-b42c-74937d336334",
+         "tmid" : 1556409,
+         "name" : "Pigeons Playing Ping Pong",
+         "sortName" : "Pigeons Playing Ping Pong",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pigeons-playing-ping-pong-3dac12b.html"
+      },
+      "venue" : {
+         "id" : "53d61b65",
+         "name" : "Bluebird Nightclub",
+         "city" : {
+            "id" : "4254679",
+            "name" : "Bloomington",
+            "state" : "Indiana",
+            "stateCode" : "IN",
+            "coords" : {
+               "lat" : 39.165325,
+               "long" : -86.5263857
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bluebird-nightclub-bloomington-in-usa-53d61b65.html"
+      },
+      "tour" : {
+         "name" : "No Tour Assigned"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1",
+            "song" : [ {
+               "name" : "Walk Outside"
+            }, {
+               "name" : "Havana"
+            }, {
+               "name" : "Melting Lights"
+            }, {
+               "name" : "Signed, Sealed, Delivered I'm Yours",
+               "cover" : {
+                  "mbid" : "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e",
+                  "tmid" : 772848,
+                  "name" : "Stevie Wonder",
+                  "sortName" : "Wonder, Stevie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/stevie-wonder-13d6b955.html"
+               }
+            }, {
+               "name" : "Bad for You"
+            }, {
+               "name" : "Funk E Zekiel",
+               "info" : "Isn't She Lovely tease"
+            }, {
+               "name" : "Henrietta"
+            }, {
+               "name" : "Offshoot"
+            } ]
+         }, {
+            "name" : "Set 2",
+            "song" : [ {
+               "name" : "Stay",
+               "info" : "Bad Touch tease"
+            }, {
+               "name" : "Poseidon",
+               "info" : "Jessica tease"
+            }, {
+               "name" : "Totally"
+            }, {
+               "name" : "Kiwi"
+            }, {
+               "name" : "Yo Soy Fiesta"
+            }, {
+               "name" : "Dawn a New Day"
+            }, {
+               "name" : "Couldn't We All"
+            }, {
+               "name" : "Ocean Flows"
+            } ]
+         }, {
+            "encore" : 1,
+            "name" : "Set 2",
+            "song" : [ {
+               "name" : "White Night"
+            }, {
+               "name" : "Long Train Runnin'",
+               "cover" : {
+                  "mbid" : "588dea29-eea3-456b-a815-3ee04f75c8e7",
+                  "tmid" : 734946,
+                  "name" : "The Doobie Brothers",
+                  "sortName" : "Doobie Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-doobie-brothers-63d6be43.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pigeons-playing-ping-pong/2019/bluebird-nightclub-bloomington-in-439563db.html"
+   }, {
+      "id" : "63955a87",
+      "versionId" : "3b178ccc",
+      "eventDate" : "13-02-2019",
+      "lastUpdated" : "2019-02-16T08:53:46.000+0000",
+      "artist" : {
+         "mbid" : "ec8e3cea-69f0-4ff3-b42c-74937d336334",
+         "tmid" : 1556409,
+         "name" : "Pigeons Playing Ping Pong",
+         "sortName" : "Pigeons Playing Ping Pong",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pigeons-playing-ping-pong-3dac12b.html"
+      },
+      "venue" : {
+         "id" : "7bd66a0c",
+         "name" : "Old Rock House",
+         "city" : {
+            "id" : "4407066",
+            "name" : "St. Louis",
+            "state" : "Missouri",
+            "stateCode" : "MO",
+            "coords" : {
+               "lat" : 38.6272733,
+               "long" : -90.1978889
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/old-rock-house-st-louis-mo-usa-7bd66a0c.html"
+      },
+      "tour" : {
+         "name" : "No Tour Assigned"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pigeons-playing-ping-pong/2019/old-rock-house-st-louis-mo-63955a87.html"
+   }, {
+      "id" : "73955a85",
+      "versionId" : "33178cc1",
+      "eventDate" : "12-02-2019",
+      "lastUpdated" : "2019-02-16T08:54:58.000+0000",
+      "artist" : {
+         "mbid" : "ec8e3cea-69f0-4ff3-b42c-74937d336334",
+         "tmid" : 1556409,
+         "name" : "Pigeons Playing Ping Pong",
+         "sortName" : "Pigeons Playing Ping Pong",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pigeons-playing-ping-pong-3dac12b.html"
+      },
+      "venue" : {
+         "id" : "73d55e51",
+         "name" : "Songbirds Guitar Museum",
+         "city" : {
+            "id" : "4612862",
+            "name" : "Chattanooga",
+            "state" : "Tennessee",
+            "stateCode" : "TN",
+            "coords" : {
+               "lat" : 35.0456297,
+               "long" : -85.3096801
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/songbirds-guitar-museum-chattanooga-tn-usa-73d55e51.html"
+      },
+      "tour" : {
+         "name" : "No Tour Assigned"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pigeons-playing-ping-pong/2019/songbirds-guitar-museum-chattanooga-tn-73955a85.html"
+   }, {
+      "id" : "b95150a",
+      "versionId" : "1b166964",
+      "eventDate" : "08-02-2019",
+      "lastUpdated" : "2019-02-11T15:50:43.000+0000",
+      "artist" : {
+         "mbid" : "ec8e3cea-69f0-4ff3-b42c-74937d336334",
+         "tmid" : 1556409,
+         "name" : "Pigeons Playing Ping Pong",
+         "sortName" : "Pigeons Playing Ping Pong",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pigeons-playing-ping-pong-3dac12b.html"
+      },
+      "venue" : {
+         "id" : "73d52611",
+         "name" : "The Orpheum",
+         "city" : {
+            "id" : "4178849",
+            "name" : "Ybor City",
+            "state" : "Florida",
+            "stateCode" : "FL",
+            "coords" : {
+               "lat" : 27.9650212,
+               "long" : -82.4350941
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-orpheum-ybor-city-fl-usa-73d52611.html"
+      },
+      "tour" : {
+         "name" : "No Tour Assigned"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Funk E Zekiel"
+            }, {
+               "name" : "Walk Outside"
+            }, {
+               "name" : "Pop Off"
+            }, {
+               "name" : "Julia w/ Chris Sgammato (Displace) on sax"
+            }, {
+               "name" : "Lightning"
+            }, {
+               "name" : "I Just Can't Wait to Be King",
+               "cover" : {
+                  "mbid" : "b83bc61f-8451-4a5d-8b8e-7e9ed295e822",
+                  "tmid" : 735394,
+                  "name" : "Elton John",
+                  "sortName" : "John, Elton",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/elton-john-63d6be6f.html"
+               }
+            }, {
+               "name" : "Avalanche"
+            }, {
+               "name" : "Overrun"
+            }, {
+               "name" : "Fun in Funk"
+            }, {
+               "name" : "Penguins > Funkijam > White Night > Imperial March > White Night"
+            }, {
+               "name" : "Poseidon"
+            }, {
+               "name" : "Spacejam / The Hop / F.U."
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Ocean Flows"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pigeons-playing-ping-pong/2019/the-orpheum-ybor-city-fl-b95150a.html"
+   }, {
+      "id" : "b951db2",
+      "versionId" : "4b16c326",
+      "eventDate" : "06-02-2019",
+      "lastUpdated" : "2019-02-07T17:54:51.000+0000",
+      "artist" : {
+         "mbid" : "ec8e3cea-69f0-4ff3-b42c-74937d336334",
+         "tmid" : 1556409,
+         "name" : "Pigeons Playing Ping Pong",
+         "sortName" : "Pigeons Playing Ping Pong",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pigeons-playing-ping-pong-3dac12b.html"
+      },
+      "venue" : {
+         "id" : "43d493e7",
+         "name" : "1904 Music Hall",
+         "city" : {
+            "id" : "4160021",
+            "name" : "Jacksonville",
+            "state" : "Florida",
+            "stateCode" : "FL",
+            "coords" : {
+               "lat" : 30.3321838,
+               "long" : -81.655651
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/1904-music-hall-jacksonville-fl-usa-43d493e7.html"
+      },
+      "tour" : {
+         "name" : "No Tour Assigned"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Too Long"
+            }, {
+               "name" : "Whoopie"
+            }, {
+               "name" : "Fun in Funk"
+            }, {
+               "name" : "J-Town / Give it Away / J-Town"
+            }, {
+               "name" : "Fox and Toad"
+            }, {
+               "name" : "Skipjack"
+            }, {
+               "name" : "Upfunk"
+            }, {
+               "name" : "Snake Eyes"
+            }, {
+               "name" : "Horizon"
+            }, {
+               "name" : "Totally"
+            }, {
+               "name" : "Porcupine"
+            }, {
+               "name" : "Landing / Jam / Zydeko"
+            }, {
+               "name" : "Fortress"
+            }, {
+               "name" : "Cliffs"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pigeons-playing-ping-pong/2019/1904-music-hall-jacksonville-fl-b951db2.html"
+   }, {
+      "id" : "4b952f42",
+      "versionId" : "4b16e7c2",
+      "eventDate" : "02-02-2019",
+      "lastUpdated" : "2019-02-05T23:14:50.000+0000",
+      "artist" : {
+         "mbid" : "ec8e3cea-69f0-4ff3-b42c-74937d336334",
+         "tmid" : 1556409,
+         "name" : "Pigeons Playing Ping Pong",
+         "sortName" : "Pigeons Playing Ping Pong",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pigeons-playing-ping-pong-3dac12b.html"
+      },
+      "venue" : {
+         "id" : "33d61c95",
+         "name" : "Lincoln Theatre",
+         "city" : {
+            "id" : "4487042",
+            "name" : "Raleigh",
+            "state" : "North Carolina",
+            "stateCode" : "NC",
+            "coords" : {
+               "lat" : 35.772096,
+               "long" : -78.6386145
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/lincoln-theatre-raleigh-nc-usa-33d61c95.html"
+      },
+      "tour" : {
+         "name" : "No Tour Assigned"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Porcupine"
+            }, {
+               "name" : "Somethin' For Ya > Pop Off"
+            }, {
+               "name" : "The Liquid"
+            }, {
+               "name" : "Too Long Train*"
+            }, {
+               "name" : "Sunny Day / The Hop / F.U."
+            }, {
+               "name" : "Zydeko > Moonwalk > Zydeko"
+            }, {
+               "name" : "Avalanche"
+            }, {
+               "name" : "King Kong > Signed, Sealed Delivered > King Kong",
+               "cover" : {
+                  "mbid" : "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e",
+                  "tmid" : 772848,
+                  "name" : "Stevie Wonder",
+                  "sortName" : "Wonder, Stevie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/stevie-wonder-13d6b955.html"
+               }
+            }, {
+               "name" : "Kiwi"
+            }, {
+               "name" : "Dawn a New Day"
+            }, {
+               "name" : "Schwanthem"
+            }, {
+               "name" : "Julia"
+            }, {
+               "name" : "Sports Theme"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pigeons-playing-ping-pong/2019/lincoln-theatre-raleigh-nc-4b952f42.html"
+   }, {
+      "id" : "33953c5d",
+      "versionId" : "33169075",
+      "eventDate" : "01-02-2019",
+      "lastUpdated" : "2019-02-03T21:08:04.000+0000",
+      "artist" : {
+         "mbid" : "ec8e3cea-69f0-4ff3-b42c-74937d336334",
+         "tmid" : 1556409,
+         "name" : "Pigeons Playing Ping Pong",
+         "sortName" : "Pigeons Playing Ping Pong",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pigeons-playing-ping-pong-3dac12b.html"
+      },
+      "venue" : {
+         "id" : "3d63d9f",
+         "name" : "The Orange Peel",
+         "city" : {
+            "id" : "4453066",
+            "name" : "Asheville",
+            "state" : "North Carolina",
+            "stateCode" : "NC",
+            "coords" : {
+               "lat" : 35.6009452,
+               "long" : -82.554015
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-orange-peel-asheville-nc-usa-3d63d9f.html"
+      },
+      "tour" : {
+         "name" : "No Tour Assigned"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1",
+            "song" : [ {
+               "name" : "Melting Lights >"
+            }, {
+               "name" : "Whirled"
+            }, {
+               "name" : "Penguins > Funkijam > Funk E. Zekiel"
+            }, {
+               "name" : "Fortress"
+            }, {
+               "name" : "Yo Soy Fiesta"
+            }, {
+               "name" : "J-Town"
+            }, {
+               "name" : "Poseidon > Jessica > Poseidon"
+            } ]
+         }, {
+            "name" : "Set 2",
+            "song" : [ {
+               "name" : "Live Life / Upfunk"
+            }, {
+               "name" : "Snake Eyes"
+            }, {
+               "name" : "Horizon > I Wanna Be Like You > Bare Necessities > I Wanna Be Like You > Horizon"
+            }, {
+               "name" : "Drunk People"
+            }, {
+               "name" : "Walk Outside"
+            }, {
+               "name" : "Ocean Flows"
+            } ]
+         }, {
+            "encore" : 1,
+            "name" : "Set 2",
+            "song" : [ {
+               "name" : "Doc"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pigeons-playing-ping-pong/2019/the-orange-peel-asheville-nc-33953c5d.html"
+   }, {
+      "id" : "2395807f",
+      "versionId" : "b696dae",
+      "eventDate" : "26-01-2019",
+      "lastUpdated" : "2019-01-30T16:49:41.000+0000",
+      "artist" : {
+         "mbid" : "ec8e3cea-69f0-4ff3-b42c-74937d336334",
+         "tmid" : 1556409,
+         "name" : "Pigeons Playing Ping Pong",
+         "sortName" : "Pigeons Playing Ping Pong",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pigeons-playing-ping-pong-3dac12b.html"
+      },
+      "venue" : {
+         "id" : "53d54729",
+         "name" : "Capitol Theatre",
+         "city" : {
+            "id" : "5132002",
+            "name" : "Port Chester",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 41.0017643,
+               "long" : -73.6656834
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/capitol-theatre-port-chester-ny-usa-53d54729.html"
+      },
+      "tour" : {
+         "name" : "No Tour Assigned"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Time to Ride"
+            }, {
+               "name" : "Totally"
+            }, {
+               "name" : "Melting Lights"
+            }, {
+               "name" : "Live It Up"
+            }, {
+               "name" : "Fortress"
+            }, {
+               "name" : "Too Long"
+            }, {
+               "name" : "Poseidon",
+               "info" : ">"
+            }, {
+               "name" : "Eyes of the World",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "tmid" : 735200,
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : "Size of a Squirrel"
+            }, {
+               "name" : "Poseidon"
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Kiwi"
+            }, {
+               "name" : "Yo Soy Fiesta"
+            }, {
+               "name" : "Burning Up My Time"
+            }, {
+               "name" : "Spacejam / The Hop / F.U."
+            }, {
+               "name" : "Upfunk"
+            }, {
+               "name" : "Dawn a New Day"
+            } ]
+         }, {
+            "encore" : 1,
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Doc"
+            }, {
+               "name" : "Schwanthem",
+               "info" : ">"
+            }, {
+               "name" : "Colors of the Wind",
+               "info" : ">"
+            }, {
+               "name" : "Schwanthem"
+            } ]
+         } ]
+      },
+      "info" : "Free livestream on The Relix Channel",
+      "url" : "https://www.setlist.fm/setlist/pigeons-playing-ping-pong/2019/capitol-theatre-port-chester-ny-2395807f.html"
+   }, {
+      "id" : "339514f9",
+      "versionId" : "3b162cb8",
+      "eventDate" : "25-01-2019",
+      "lastUpdated" : "2019-02-08T20:53:49.000+0000",
+      "artist" : {
+         "mbid" : "ec8e3cea-69f0-4ff3-b42c-74937d336334",
+         "tmid" : 1556409,
+         "name" : "Pigeons Playing Ping Pong",
+         "sortName" : "Pigeons Playing Ping Pong",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pigeons-playing-ping-pong-3dac12b.html"
+      },
+      "venue" : {
+         "id" : "33d638d5",
+         "name" : "Paramount Theatre",
+         "city" : {
+            "id" : "5095281",
+            "name" : "Asbury Park",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.2203907,
+               "long" : -74.0120817
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/paramount-theatre-asbury-park-nj-usa-33d638d5.html"
+      },
+      "tour" : {
+         "name" : "No Tour Assigned"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Porcupine",
+               "info" : ">"
+            }, {
+               "name" : "Penguins",
+               "info" : ">"
+            }, {
+               "name" : "Porcupine"
+            }, {
+               "name" : "Fade Fast"
+            }, {
+               "name" : "Fun in Funk"
+            }, {
+               "name" : "Fox and Toad"
+            }, {
+               "name" : "While My Guitar Gently Weeps",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "tmid" : 735610,
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Couldn't We All"
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Walk Outside"
+            }, {
+               "name" : "Skipjack"
+            }, {
+               "name" : "Horizon"
+            }, {
+               "name" : "Bad for You"
+            }, {
+               "name" : "Landing"
+            }, {
+               "name" : "Lightning"
+            }, {
+               "name" : "Ocean Flows"
+            } ]
+         }, {
+            "encore" : 1,
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Whirled"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pigeons-playing-ping-pong/2019/paramount-theatre-asbury-park-nj-339514f9.html"
+   }, {
+      "id" : "33951405",
+      "versionId" : "23162cc7",
+      "eventDate" : "24-01-2019",
+      "lastUpdated" : "2019-02-08T20:50:53.000+0000",
+      "artist" : {
+         "mbid" : "ec8e3cea-69f0-4ff3-b42c-74937d336334",
+         "tmid" : 1556409,
+         "name" : "Pigeons Playing Ping Pong",
+         "sortName" : "Pigeons Playing Ping Pong",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pigeons-playing-ping-pong-3dac12b.html"
+      },
+      "venue" : {
+         "id" : "33d638d5",
+         "name" : "Paramount Theatre",
+         "city" : {
+            "id" : "5095281",
+            "name" : "Asbury Park",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.2203907,
+               "long" : -74.0120817
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/paramount-theatre-asbury-park-nj-usa-33d638d5.html"
+      },
+      "tour" : {
+         "name" : "No Tour Assigned"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Funk E Zekiel"
+            }, {
+               "name" : "The Liquid"
+            }, {
+               "name" : "Pop Off"
+            }, {
+               "name" : "Whoopie",
+               "info" : ">"
+            }, {
+               "name" : "1999",
+               "cover" : {
+                  "mbid" : "070d193a-845c-479f-980e-bef15710653e",
+                  "tmid" : 735895,
+                  "name" : "Prince",
+                  "sortName" : "Prince",
+                  "disambiguation" : "“The Artist Formerly Known as…”",
+                  "url" : "https://www.setlist.fm/setlists/prince-13d6b9ed.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Whoopie"
+            }, {
+               "name" : "Sail On"
+            }, {
+               "name" : "Somethin for Ya"
+            }, {
+               "name" : "Havana"
+            }, {
+               "name" : "Julia"
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Henrietta"
+            }, {
+               "name" : "Offshoot"
+            }, {
+               "name" : "King Kong"
+            }, {
+               "name" : "Sunny Day"
+            }, {
+               "name" : "F.U."
+            }, {
+               "name" : "Zydeko"
+            } ]
+         }, {
+            "encore" : 1,
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Too Long"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pigeons-playing-ping-pong/2019/paramount-theatre-asbury-park-nj-33951405.html"
+   }, {
+      "id" : "739436f1",
+      "versionId" : "5b69c7f8",
+      "eventDate" : "31-12-2018",
+      "lastUpdated" : "2019-01-26T22:24:45.000+0000",
+      "artist" : {
+         "mbid" : "ec8e3cea-69f0-4ff3-b42c-74937d336334",
+         "tmid" : 1556409,
+         "name" : "Pigeons Playing Ping Pong",
+         "sortName" : "Pigeons Playing Ping Pong",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pigeons-playing-ping-pong-3dac12b.html"
+      },
+      "venue" : {
+         "id" : "5bd7afb0",
+         "name" : "Stage AE",
+         "city" : {
+            "id" : "5206379",
+            "name" : "Pittsburgh",
+            "state" : "Pennsylvania",
+            "stateCode" : "PA",
+            "coords" : {
+               "lat" : 40.4406248,
+               "long" : -79.9958864
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/stage-ae-pittsburgh-pa-usa-5bd7afb0.html"
+      },
+      "tour" : {
+         "name" : "No Tour Assigned"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Burning Up My Time",
+               "info" : ">"
+            }, {
+               "name" : "Offshoot",
+               "info" : "with 'Sweet Emotion' by Aerosmith snippet"
+            }, {
+               "name" : "Somethin' for Ya",
+               "info" : ">"
+            }, {
+               "name" : "Medicated Goo",
+               "cover" : {
+                  "mbid" : "9fadfba9-ecae-4383-a4d8-47b043cea19a",
+                  "name" : "Traffic",
+                  "sortName" : "Traffic",
+                  "disambiguation" : "English rock band",
+                  "url" : "https://www.setlist.fm/setlists/traffic-13d6ada9.html"
+               }
+            }, {
+               "name" : "Whoopie",
+               "info" : "with West End Blend Horns & Casey Russell (Magic Beans) on keys) (>"
+            }, {
+               "name" : "I Wish",
+               "cover" : {
+                  "mbid" : "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e",
+                  "tmid" : 772848,
+                  "name" : "Stevie Wonder",
+                  "sortName" : "Wonder, Stevie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/stevie-wonder-13d6b955.html"
+               },
+               "info" : "with West End Blend Horns & Casey Russell (Magic Beans) on keys) (>"
+            }, {
+               "name" : "Master Blaster (Jammin')",
+               "cover" : {
+                  "mbid" : "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e",
+                  "tmid" : 772848,
+                  "name" : "Stevie Wonder",
+                  "sortName" : "Wonder, Stevie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/stevie-wonder-13d6b955.html"
+               },
+               "info" : "with West End Blend Horns & Casey Russell (Magic Beans) on keys) (>"
+            }, {
+               "name" : "Whoopie",
+               "info" : "with West End Blend Horns & Casey Russell (Magic Beans) on keys"
+            }, {
+               "name" : "Yo Soy Fiesta"
+            }, {
+               "name" : "Boogie On Reggae Woman",
+               "cover" : {
+                  "mbid" : "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e",
+                  "tmid" : 772848,
+                  "name" : "Stevie Wonder",
+                  "sortName" : "Wonder, Stevie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/stevie-wonder-13d6b955.html"
+               },
+               "info" : "with West End Blend Horns & Casey Russell (Magic Beans) on keys) (>"
+            }, {
+               "name" : "Superstition",
+               "cover" : {
+                  "mbid" : "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e",
+                  "tmid" : 772848,
+                  "name" : "Stevie Wonder",
+                  "sortName" : "Wonder, Stevie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/stevie-wonder-13d6b955.html"
+               },
+               "info" : "with West End Blend Horns & Casey Russell (Magic Beans) on keys) (>"
+            }, {
+               "name" : "Poseidon"
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Porcupine",
+               "info" : "with 'Edge of Seventeen' by Stevie Nicks snippet"
+            }, {
+               "name" : "Sir Duke",
+               "cover" : {
+                  "mbid" : "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e",
+                  "tmid" : 772848,
+                  "name" : "Stevie Wonder",
+                  "sortName" : "Wonder, Stevie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/stevie-wonder-13d6b955.html"
+               },
+               "info" : "with West End Blend Horns"
+            }, {
+               "name" : "Drunk People",
+               "info" : ">"
+            }, {
+               "name" : "Smoke on the Water",
+               "cover" : {
+                  "mbid" : "79491354-3d83-40e3-9d8e-7592d58d790a",
+                  "tmid" : 734897,
+                  "name" : "Deep Purple",
+                  "sortName" : "Deep Purple",
+                  "disambiguation" : "English rock band",
+                  "url" : "https://www.setlist.fm/setlists/deep-purple-3bd6acc8.html"
+               },
+               "info" : "instrumental) (>"
+            }, {
+               "name" : "Abracadabra",
+               "cover" : {
+                  "mbid" : "e57f0cac-4f56-473c-8d7e-d93f753fd586",
+                  "tmid" : 856306,
+                  "name" : "Steve Miller Band",
+                  "sortName" : "Miller, Steve, Band",
+                  "disambiguation" : "American rock band",
+                  "url" : "https://www.setlist.fm/setlists/steve-miller-band-3bd6b888.html"
+               },
+               "info" : "with 'The Chain' by Fleetwood Mac outro) (> 'Drunk People' reprise"
+            }, {
+               "name" : "Ocean Flows",
+               "info" : "with NYE countdown) (>"
+            }, {
+               "name" : "Auld lang syne",
+               "cover" : {
+                  "mbid" : "56e7d9b7-174b-4e29-a50d-f164030d197f",
+                  "name" : "Robert Burns",
+                  "sortName" : "Burns, Robert",
+                  "disambiguation" : "18th century Scots poet/lyricist",
+                  "url" : "https://www.setlist.fm/setlists/robert-burns-4bd23756.html"
+               },
+               "info" : "with 'Isn't She Lovely' by Stevie  Wonder snippet"
+            }, {
+               "name" : "King Kong",
+               "info" : "with West End Blend Horns; with 'Signed, Sealed, Delivered I'm Yours' by Stevie Wonder snippet"
+            }, {
+               "name" : "Fortress",
+               "info" : "with West End Blend Horns"
+            }, {
+               "name" : "Living for the City",
+               "cover" : {
+                  "mbid" : "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e",
+                  "tmid" : 772848,
+                  "name" : "Stevie Wonder",
+                  "sortName" : "Wonder, Stevie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/stevie-wonder-13d6b955.html"
+               },
+               "info" : "with West End Blend Horns) (>"
+            }, {
+               "name" : "Horizon",
+               "info" : "with 'Lenny' snippet"
+            } ]
+         }, {
+            "encore" : 1,
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Schwanthem",
+               "info" : "with West End Blend Horns"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pigeons-playing-ping-pong/2018/stage-ae-pittsburgh-pa-739436f1.html"
+   }, {
+      "id" : "239438db",
+      "versionId" : "3688d3b",
+      "eventDate" : "29-12-2018",
+      "lastUpdated" : "2019-01-09T03:32:53.000+0000",
+      "artist" : {
+         "mbid" : "ec8e3cea-69f0-4ff3-b42c-74937d336334",
+         "tmid" : 1556409,
+         "name" : "Pigeons Playing Ping Pong",
+         "sortName" : "Pigeons Playing Ping Pong",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pigeons-playing-ping-pong-3dac12b.html"
+      },
+      "venue" : {
+         "id" : "4bd6dbca",
+         "name" : "Madison Theater",
+         "city" : {
+            "id" : "4288809",
+            "name" : "Covington",
+            "state" : "Kentucky",
+            "stateCode" : "KY",
+            "coords" : {
+               "lat" : 39.0836712,
+               "long" : -84.5085537
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-theater-covington-ky-usa-4bd6dbca.html"
+      },
+      "tour" : {
+         "name" : "No Tour Assigned"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "1",
+            "song" : [ {
+               "name" : "Time to Ride"
+            }, {
+               "name" : "Penguins",
+               "info" : ">"
+            }, {
+               "name" : "Funkijam",
+               "info" : ">"
+            }, {
+               "name" : "Somethin' for Ya",
+               "info" : ">"
+            }, {
+               "name" : "Havana",
+               "info" : ">"
+            }, {
+               "name" : "Julia"
+            }, {
+               "name" : "Snake Eyes"
+            }, {
+               "name" : "The Liquid"
+            }, {
+               "name" : "High as Five",
+               "info" : ">"
+            }, {
+               "name" : "P.Y.T. (Pretty Young Thing)",
+               "cover" : {
+                  "mbid" : "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+                  "tmid" : 735356,
+                  "name" : "Michael Jackson",
+                  "sortName" : "Jackson, Michael",
+                  "disambiguation" : "“King of Pop”",
+                  "url" : "https://www.setlist.fm/setlists/michael-jackson-6bd6e252.html"
+               }
+            }, {
+               "name" : "Pinball Wizard",
+               "cover" : {
+                  "mbid" : "9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa",
+                  "tmid" : 807319,
+                  "name" : "The Who",
+                  "sortName" : "Who, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-who-bd6bd2a.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "High as Five"
+            } ]
+         }, {
+            "name" : "2",
+            "song" : [ {
+               "name" : "Too Long"
+            }, {
+               "name" : "Upfunk",
+               "info" : ">"
+            }, {
+               "name" : "Drum",
+               "info" : ">"
+            }, {
+               "name" : "Zydeko"
+            }, {
+               "name" : "While My Guitar Gently Weeps",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "tmid" : 735610,
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Lightning"
+            }, {
+               "name" : "Dawn a New Day"
+            } ]
+         }, {
+            "encore" : 1,
+            "name" : "2",
+            "song" : [ {
+               "name" : "Melting Lights"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pigeons-playing-ping-pong/2018/madison-theater-covington-ky-239438db.html"
+   }, {
+      "id" : "1b9435e0",
+      "versionId" : "6b6892de",
+      "eventDate" : "28-12-2018",
+      "lastUpdated" : "2019-01-09T02:58:50.000+0000",
+      "artist" : {
+         "mbid" : "ec8e3cea-69f0-4ff3-b42c-74937d336334",
+         "tmid" : 1556409,
+         "name" : "Pigeons Playing Ping Pong",
+         "sortName" : "Pigeons Playing Ping Pong",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pigeons-playing-ping-pong-3dac12b.html"
+      },
+      "venue" : {
+         "id" : "23d440b3",
+         "name" : "The Basement East",
+         "city" : {
+            "id" : "4644585",
+            "name" : "Nashville",
+            "state" : "Tennessee",
+            "stateCode" : "TN",
+            "coords" : {
+               "lat" : 36.1658899,
+               "long" : -86.7844432
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-basement-east-nashville-tn-usa-23d440b3.html"
+      },
+      "tour" : {
+         "name" : "No Tour Assigned"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "1",
+            "song" : [ {
+               "name" : "Whirled"
+            }, {
+               "name" : "Walk Outside"
+            }, {
+               "name" : "Live It Up",
+               "info" : ">"
+            }, {
+               "name" : "Fox and Toad",
+               "info" : ">"
+            }, {
+               "name" : "Around the World",
+               "info" : ">"
+            }, {
+               "name" : "Funk E Zekiel"
+            }, {
+               "name" : "Fade Fast"
+            }, {
+               "name" : "Fun in Funk"
+            } ]
+         }, {
+            "name" : "2",
+            "song" : [ {
+               "name" : "Kiwi",
+               "info" : ">"
+            }, {
+               "name" : "Fortress",
+               "info" : ">"
+            }, {
+               "name" : "Skipjack"
+            }, {
+               "name" : "Ghostbusters",
+               "cover" : {
+                  "mbid" : "af9c073c-f230-4527-8fcd-2338fe1e129e",
+                  "tmid" : 1476344,
+                  "name" : "Ray Parker Jr.",
+                  "sortName" : "Parker, Ray, Jr.",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ray-parker-jr-3bd67060.html"
+               }
+            }, {
+               "name" : "King Kong"
+            }, {
+               "name" : "Overrun"
+            }, {
+               "name" : "Sunny Day"
+            }, {
+               "name" : "Poseidon"
+            } ]
+         }, {
+            "encore" : 1,
+            "name" : "2",
+            "song" : [ {
+               "name" : "Ocean Flows"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pigeons-playing-ping-pong/2018/the-basement-east-nashville-tn-1b9435e0.html"
+   }, {
+      "id" : "1394391d",
+      "versionId" : "6b6892a6",
+      "eventDate" : "27-12-2018",
+      "lastUpdated" : "2019-01-09T03:12:16.000+0000",
+      "artist" : {
+         "mbid" : "ec8e3cea-69f0-4ff3-b42c-74937d336334",
+         "tmid" : 1556409,
+         "name" : "Pigeons Playing Ping Pong",
+         "sortName" : "Pigeons Playing Ping Pong",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pigeons-playing-ping-pong-3dac12b.html"
+      },
+      "venue" : {
+         "id" : "23d440b3",
+         "name" : "The Basement East",
+         "city" : {
+            "id" : "4644585",
+            "name" : "Nashville",
+            "state" : "Tennessee",
+            "stateCode" : "TN",
+            "coords" : {
+               "lat" : 36.1658899,
+               "long" : -86.7844432
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-basement-east-nashville-tn-usa-23d440b3.html"
+      },
+      "tour" : {
+         "name" : "No Tour Assigned"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "1",
+            "song" : [ {
+               "name" : "Upfunk"
+            }, {
+               "name" : "Henrietta"
+            }, {
+               "name" : "Offshoot",
+               "info" : "with Pink Panther snippet"
+            }, {
+               "name" : "Landing / Burning Up My Time"
+            }, {
+               "name" : "Condenser",
+               "info" : "with Su Casa snippet"
+            }, {
+               "name" : "The Liquid"
+            } ]
+         }, {
+            "name" : "2",
+            "song" : [ {
+               "name" : "Whoopie"
+            }, {
+               "name" : "Porcupine"
+            }, {
+               "name" : "Sail On"
+            }, {
+               "name" : "Space / The Hop / F.U."
+            }, {
+               "name" : "Bad for You"
+            }, {
+               "name" : "Julia",
+               "info" : "with Doug Rats snippet"
+            } ]
+         }, {
+            "encore" : 1,
+            "name" : "2",
+            "song" : [ {
+               "name" : "French Cafe / Doc"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pigeons-playing-ping-pong/2018/the-basement-east-nashville-tn-1394391d.html"
+   }, {
+      "id" : "39761ff",
+      "versionId" : "6b6de6e2",
+      "eventDate" : "01-12-2018",
+      "lastUpdated" : "2018-12-03T15:26:15.000+0000",
+      "artist" : {
+         "mbid" : "ec8e3cea-69f0-4ff3-b42c-74937d336334",
+         "tmid" : 1556409,
+         "name" : "Pigeons Playing Ping Pong",
+         "sortName" : "Pigeons Playing Ping Pong",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pigeons-playing-ping-pong-3dac12b.html"
+      },
+      "venue" : {
+         "id" : "43d61f2f",
+         "name" : "Paradise Rock Club",
+         "city" : {
+            "id" : "4930956",
+            "name" : "Boston",
+            "state" : "Massachusetts",
+            "stateCode" : "MA",
+            "coords" : {
+               "lat" : 42.3584308,
+               "long" : -71.0597732
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/paradise-rock-club-boston-ma-usa-43d61f2f.html"
+      },
+      "tour" : {
+         "name" : "No Tour Assigned"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1",
+            "song" : [ {
+               "name" : "Henrietta"
+            }, {
+               "name" : "Time to Ride"
+            }, {
+               "name" : "Poseidon"
+            }, {
+               "name" : "Lightning",
+               "info" : "with Tomo Fujita on guitar"
+            }, {
+               "name" : "Where Are We Going"
+            }, {
+               "name" : "Don't Stop 'Til You Get Enough",
+               "cover" : {
+                  "mbid" : "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+                  "tmid" : 735356,
+                  "name" : "Michael Jackson",
+                  "sortName" : "Jackson, Michael",
+                  "disambiguation" : "“King of Pop”",
+                  "url" : "https://www.setlist.fm/setlists/michael-jackson-6bd6e252.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Schwanthem"
+            } ]
+         }, {
+            "name" : "Set 2",
+            "song" : [ {
+               "name" : "Pop Off"
+            }, {
+               "name" : "The Liquid"
+            }, {
+               "name" : "Indiglo",
+               "info" : ">"
+            }, {
+               "name" : "Horizon"
+            }, {
+               "name" : "This is That"
+            }, {
+               "name" : "Zydeko",
+               "info" : ">"
+            }, {
+               "name" : "E-Funk",
+               "info" : ">"
+            }, {
+               "name" : "Skipjack",
+               "info" : ">"
+            }, {
+               "name" : "Eleanor Rigby",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "tmid" : 735610,
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Skipjack"
+            }, {
+               "name" : "Cliffs"
+            } ]
+         }, {
+            "encore" : 1,
+            "name" : "Set 2",
+            "song" : [ {
+               "name" : "Ocean Flows"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pigeons-playing-ping-pong/2018/paradise-rock-club-boston-ma-39761ff.html"
+   }, {
+      "id" : "63977687",
+      "versionId" : "1b688d5c",
+      "eventDate" : "30-11-2018",
+      "lastUpdated" : "2019-01-09T03:28:22.000+0000",
+      "artist" : {
+         "mbid" : "ec8e3cea-69f0-4ff3-b42c-74937d336334",
+         "tmid" : 1556409,
+         "name" : "Pigeons Playing Ping Pong",
+         "sortName" : "Pigeons Playing Ping Pong",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pigeons-playing-ping-pong-3dac12b.html"
+      },
+      "venue" : {
+         "id" : "43d61f2f",
+         "name" : "Paradise Rock Club",
+         "city" : {
+            "id" : "4930956",
+            "name" : "Boston",
+            "state" : "Massachusetts",
+            "stateCode" : "MA",
+            "coords" : {
+               "lat" : 42.3584308,
+               "long" : -71.0597732
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/paradise-rock-club-boston-ma-usa-43d61f2f.html"
+      },
+      "tour" : {
+         "name" : "No Tour Assigned"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Funk E Zekiel"
+            }, {
+               "name" : "Walk Outside"
+            }, {
+               "name" : "Bad for You"
+            }, {
+               "name" : "By the Way",
+               "cover" : {
+                  "mbid" : "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+                  "tmid" : 848229,
+                  "name" : "Red Hot Chili Peppers",
+                  "sortName" : "Red Hot Chili Peppers",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/red-hot-chili-peppers-13d68969.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Havana",
+               "info" : ">"
+            }, {
+               "name" : "Melting Lights",
+               "info" : ">"
+            }, {
+               "name" : "Live It Up"
+            }, {
+               "name" : "Fortress"
+            }, {
+               "name" : "Doc"
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Whoopie"
+            }, {
+               "name" : "King Kong"
+            }, {
+               "name" : "Sunny Day",
+               "info" : ">"
+            }, {
+               "name" : "The Hop",
+               "info" : ">"
+            }, {
+               "name" : "F.U."
+            }, {
+               "name" : "Fade Fast"
+            }, {
+               "name" : "Yo Soy Fiesta"
+            } ]
+         }, {
+            "encore" : 1,
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Dawn a New Day"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pigeons-playing-ping-pong/2018/paradise-rock-club-boston-ma-63977687.html"
+   }, {
+      "id" : "b977956",
+      "versionId" : "36df143",
+      "eventDate" : "29-11-2018",
+      "lastUpdated" : "2018-12-02T22:59:36.000+0000",
+      "artist" : {
+         "mbid" : "ec8e3cea-69f0-4ff3-b42c-74937d336334",
+         "tmid" : 1556409,
+         "name" : "Pigeons Playing Ping Pong",
+         "sortName" : "Pigeons Playing Ping Pong",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pigeons-playing-ping-pong-3dac12b.html"
+      },
+      "venue" : {
+         "id" : "43d61f2f",
+         "name" : "Paradise Rock Club",
+         "city" : {
+            "id" : "4930956",
+            "name" : "Boston",
+            "state" : "Massachusetts",
+            "stateCode" : "MA",
+            "coords" : {
+               "lat" : 42.3584308,
+               "long" : -71.0597732
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/paradise-rock-club-boston-ma-usa-43d61f2f.html"
+      },
+      "tour" : {
+         "name" : "No Tour Assigned"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1",
+            "song" : [ {
+               "name" : "Too Long"
+            }, {
+               "name" : "Penguins",
+               "info" : ">"
+            }, {
+               "name" : "Funkijam",
+               "info" : ">"
+            }, {
+               "name" : "Somethin' for Ya",
+               "info" : ">"
+            }, {
+               "name" : "Stay",
+               "info" : ">"
+            }, {
+               "name" : "Burning Up My Time",
+               "info" : ">"
+            }, {
+               "name" : "Offshoot"
+            }, {
+               "name" : "I Just Can't Wait to Be King",
+               "cover" : {
+                  "mbid" : "b83bc61f-8451-4a5d-8b8e-7e9ed295e822",
+                  "tmid" : 735394,
+                  "name" : "Elton John",
+                  "sortName" : "John, Elton",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/elton-john-63d6be6f.html"
+               }
+            }, {
+               "name" : "Su Casa"
+            } ]
+         }, {
+            "name" : "Set 2",
+            "song" : [ {
+               "name" : "Live Life",
+               "info" : ">"
+            }, {
+               "name" : "Upfunk",
+               "info" : ">"
+            }, {
+               "name" : "Hyrule Castle",
+               "info" : ">"
+            }, {
+               "name" : "Drum Solo",
+               "info" : ">"
+            }, {
+               "name" : "Jam",
+               "info" : ">"
+            }, {
+               "name" : "Upfunk"
+            }, {
+               "name" : "Kiwi",
+               "info" : ">"
+            }, {
+               "name" : "Sail On"
+            }, {
+               "name" : "Julia",
+               "info" : ">"
+            }, {
+               "name" : "Rugrats",
+               "info" : ">"
+            }, {
+               "name" : "Doug",
+               "info" : ">"
+            }, {
+               "name" : "Julia"
+            }, {
+               "name" : "Snake Eyes"
+            }, {
+               "name" : "Porcupine"
+            } ]
+         }, {
+            "encore" : 1,
+            "name" : "Set 2",
+            "song" : [ {
+               "name" : "Fun in Funk"
+            } ]
+         } ]
+      },
+      "info" : "Goose opened.",
+      "url" : "https://www.setlist.fm/setlist/pigeons-playing-ping-pong/2018/paradise-rock-club-boston-ma-b977956.html"
+   }, {
+      "id" : "1b973990",
+      "versionId" : "63693a0b",
+      "eventDate" : "24-11-2018",
+      "lastUpdated" : "2019-01-27T06:32:12.000+0000",
+      "artist" : {
+         "mbid" : "ec8e3cea-69f0-4ff3-b42c-74937d336334",
+         "tmid" : 1556409,
+         "name" : "Pigeons Playing Ping Pong",
+         "sortName" : "Pigeons Playing Ping Pong",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pigeons-playing-ping-pong-3dac12b.html"
+      },
+      "venue" : {
+         "id" : "23d61c8f",
+         "name" : "Rams Head Live!",
+         "city" : {
+            "id" : "4347778",
+            "name" : "Baltimore",
+            "state" : "Maryland",
+            "stateCode" : "MD",
+            "coords" : {
+               "lat" : 39.2903848,
+               "long" : -76.6121893
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rams-head-live-baltimore-md-usa-23d61c8f.html"
+      },
+      "tour" : {
+         "name" : "No Tour Assigned"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "1",
+            "song" : [ {
+               "name" : "Porcupine"
+            }, {
+               "name" : "Sail On"
+            }, {
+               "name" : "Bad for You"
+            }, {
+               "name" : "Julia"
+            }, {
+               "name" : "High as Five",
+               "info" : ">"
+            }, {
+               "name" : "P.Y.T. (Pretty Young Thing)",
+               "cover" : {
+                  "mbid" : "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+                  "tmid" : 735356,
+                  "name" : "Michael Jackson",
+                  "sortName" : "Jackson, Michael",
+                  "disambiguation" : "“King of Pop”",
+                  "url" : "https://www.setlist.fm/setlists/michael-jackson-6bd6e252.html"
+               }
+            }, {
+               "name" : "Pinball Wizard",
+               "cover" : {
+                  "mbid" : "9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa",
+                  "tmid" : 807319,
+                  "name" : "The Who",
+                  "sortName" : "Who, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-who-bd6bd2a.html"
+               }
+            }, {
+               "name" : "High as Five"
+            }, {
+               "name" : "The Liquid"
+            }, {
+               "name" : "Lightning",
+               "info" : "with Jordan August"
+            }, {
+               "name" : "Yo Soy Fiesta",
+               "info" : "debut"
+            }, {
+               "name" : "Avalanche"
+            } ]
+         }, {
+            "name" : "2",
+            "song" : [ {
+               "name" : "Whirled",
+               "info" : ">"
+            }, {
+               "name" : "Poseidon",
+               "info" : ">"
+            }, {
+               "name" : "While My Guitar Gently Weeps",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "tmid" : 735610,
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Couldn't We All",
+               "info" : ">"
+            }, {
+               "name" : "Upfunk",
+               "info" : ">"
+            }, {
+               "name" : "Drums",
+               "info" : ">"
+            }, {
+               "name" : "Upfunk"
+            }, {
+               "name" : "Fox and Toad"
+            }, {
+               "name" : "Horizon"
+            }, {
+               "name" : "Fun in Funk"
+            } ]
+         }, {
+            "encore" : 1,
+            "name" : "2",
+            "song" : [ {
+               "name" : "Zydeko",
+               "info" : ">"
+            }, {
+               "name" : "Sir Real",
+               "info" : ">"
+            }, {
+               "name" : "Zydeko"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pigeons-playing-ping-pong/2018/rams-head-live-baltimore-md-1b973990.html"
+   } ]
+}
